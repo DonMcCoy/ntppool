@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
-"Last-Translator: Omar Khalil <omar@khalil.pw>\n"
+"Last-Translator: Omar Khalil <Omar@Khalil.pw>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "go up"
-msgstr "الذهاب الى بداية الصفحة"
+msgstr "اذهب للأعلى"
 
 # zone names
 msgid "Africa"
@@ -31,108 +31,108 @@ msgid "Global"
 msgstr "في جميع أنحاء العالم"
 
 msgid "All Pool Servers"
-msgstr "(Pool Servers) جميع الخوادم الزمنية"
+msgstr "جميع الخوادم الزمنية (Pool Servers)"
 
 # navigation
 msgid "Translations"
 msgstr "الترجمات"
 
 # index.html
-msgid  "Introduction"
-msgstr "مقدمة"
+msgid "Introduction"
+msgstr "المقدمة"
 
-msgid  "Active Servers"
+msgid "Active Servers"
 msgstr "الخوادم النشطة"
 
-msgid  "Links"
+msgid "Links"
 msgstr "روابط"
 
-msgid  "Terms of service"
+msgid "Terms of service"
 msgstr "شروط الخدمة"
 
-msgid  "Subscribe in a reader"
-msgstr "Subscribe in a reader"
+msgid "Subscribe in a reader"
+msgstr "الاشتراك في القارئ"
 
-msgid  "Older news"
-msgstr "Older news"
+msgid "Older news"
+msgstr "أخبار أقدم"
 
 # mailinglists.html
-msgid  "NTP Pool mailing lists"
-msgstr "NTP Pool mailing lists"
+msgid "NTP Pool mailing lists"
+msgstr "القوائم البريدية لـ NTP Pool "
 
-msgid  "subscribe"
-msgstr "subscribe"
+msgid "subscribe"
+msgstr "اشتراك"
 
-msgid  "archive"
-msgstr "archive"
+msgid "archive"
+msgstr "ارشيف"
 
-msgid  "Announcement list"
-msgstr "Announcement list"
+msgid "Announcement list"
+msgstr "قائمة الإعلانات"
 
-msgid  "Discussion list"
-msgstr "Discussion list"
+msgid "Discussion list"
+msgstr "قائمة المناقشة"
 
-msgid  "Development list"
-msgstr "Development list"
+msgid "Development list"
+msgstr "قائمة التطوير"
 
-msgid  "announcement_list_description"
-msgstr "Very very low traffic announcements of NTP Pool news.  All server operators should be subscribed to the announcement list."
+msgid "announcement_list_description"
+msgstr "القليل جدا من الإعلانات عن أخبار NTP Pool. جميع مشغلي المخدمات ينبغي عليهم الأشتراك في القائمة الاعلانية."
 
-msgid  "discussion_list_description"
-msgstr "Server operators (and users) who wish to be more involved in the project can subscribe to the discussion list.<br/> Of course, general discussions about ntp should take place on the %1 Usenet newsgroup (also on <a href=\"%2\">Google Groups</a>)."
+msgid "discussion_list_description"
+msgstr "مشغلي الخوادم (والمستخدمين) الراغبين في المشاركة بشكل أكبر في المشروع يمكنهم الأشتراك في قائمة النقاشات. <br/> وبالطبع,  سوف تحدث نقاشات عامة عن الـ NTP في %2 القوائم الأخبارية (newsgroup) لـ Usenet (ايضا في <a href=\"%2\">مجموعات جوحل</a>)."
 
-msgid  "development_list_description"
-msgstr "More technical (and ideally always pragmatic) discussions about the current development of the <a href=\"%1\">ntp pool code</a> and <a href=\"%2\">pgeodns</a> happens on the timekeepers-dev list."
+msgid "development_list_description"
+msgstr "نقاشات تقنية أكثر (ومن الناحية المثالية دائما عمليا) حول وضع التطوير الحالي <a href=\"%1\"> للكود الخاص بـ ntp pool  </a> و <a href=\"%2\"> pgeodns </a> تحصل في القائمة البريدية timekeepers-dev."
 
-msgid  "irc_channel_description"
-msgstr "There's a %2 IRC channel for server operators and users on %1."
+msgid "irc_channel_description"
+msgstr "يوجد هنالك %2 قناة IRC لمشغلي الخوادم والمستخدمين في %1."
 
 # tpl/server.html
-msgid  "Back to the front page"
-msgstr "Back to the front page"
+msgid "Back to the front page"
+msgstr "العودة الى الصفحة الرئيسية"
 
-msgid  "Find"
-msgstr "Find"
+msgid "Find"
+msgstr "البحث"
 
-msgid  "Stats for %1"
-msgstr "Statistics for %1"
+msgid "Stats for %1"
+msgstr "إحصائيات ل %1"
 
-msgid  "Not active in the pool, monitoring only"
-msgstr "Not active in the pool, monitoring only"
+msgid "Not active in the pool, monitoring only"
+msgstr "غير نشطة في الـ Pool, رصد فقط"
 
-msgid  "Zones:"
-msgstr "Zones:"
+msgid "Zones:"
+msgstr "المناطق:"
 
-msgid  "This server is <span class=\"deletion\">scheduled for deletion</span> on %1."
-msgstr "This server is <span class=\"deletion\">scheduled for deletion</span> on %1."
+msgid "This server is <span class=\"deletion\">scheduled for deletion</span> on %1."
+msgstr "هذا المخدم هو <span class=\"deletion\">مقرر حذفه<span/> في %1."
 
-msgid  "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
-msgstr "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
+msgid "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
+msgstr "النتيجة الحالية: 1% (فقط المخدمات ذو النتيجة الأعلى من 2% هي المستخدمة في الـ Pool)"
 
-msgid  "What do the graphs mean?"
-msgstr "What do the graphs mean?"
+msgid "What do the graphs mean?"
+msgstr "ماذا تعني هذه الرسوم البيانية؟"
 
-msgid  "CSV log"
-msgstr "CSV log"
+msgid "CSV log"
+msgstr "سجل CSV"
 
 # tpl/navigation_sidebar.html
-msgid  "News"
-msgstr "News"
+msgid "News"
+msgstr "اخبار"
 
-msgid  "How do I <i>use</i> pool.ntp.org?"
-msgstr "How do I <i>use</i> pool.ntp.org?"
+msgid "How do I <i>use</i> pool.ntp.org?"
+msgstr "كيف يمكنني <i> استعمال <i/> لخدمة pool.ntp.org ؟"
 
-msgid  "How do I <i>join</i> pool.ntp.org?"
-msgstr "How do I <i>join</i> pool.ntp.org?"
+msgid "How do I <i>join</i> pool.ntp.org?"
+msgstr "كيف يمكنني <i> الانضمام <i/> لخدمة pool.ntp.org ؟"
 
-msgid  "Information for vendors"
-msgstr "Information for vendors"
+msgid "Information for vendors"
+msgstr "المعلومات الخاصة بالموردين"
 
-msgid  "The mailing lists"
-msgstr "The mailing lists"
+msgid "The mailing lists"
+msgstr "القوائم البريدية"
 
-msgid  "Additional links"
-msgstr "Additional links"
+msgid "Additional links"
+msgstr "روابط إضافية"
 
-msgid  "Can you translate?"
-msgstr "Can you translate?"
+msgid "Can you translate?"
+msgstr "هل يمكنك الترجمة؟"
