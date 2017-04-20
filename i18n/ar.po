@@ -1,54 +1,47 @@
-msgid ""
-msgstr ""
-"Last-Translator: Ask Bjørn Hansen <ask@develooper.com>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
 msgid "go up"
-msgstr "go up"
+msgstr "الذهاب الى بداية الصفحة"
 
 # zone names
 msgid "Africa"
-msgstr "Africa"
+msgstr "أفريقيا"
 
 msgid "Asia"
-msgstr "Asia"
+msgstr "آسيا"
 
 msgid "North America"
-msgstr "North America"
+msgstr "شمال أمريكا"
 
 msgid "South America"
-msgstr "South America"
+msgstr "جنوب أمريكا"
 
 msgid "Europe"
-msgstr "Europe"
+msgstr "أوروبا"
 
 msgid "Oceania"
-msgstr "Oceania"
+msgstr "أوقيانوسيا"
 
 msgid "Global"
-msgstr "Global"
+msgstr "في جميع أنحاء العالم"
 
 msgid "All Pool Servers"
-msgstr "All Pool Servers"
+msgstr "(Pool Servers) جميع الخوادم الزمنية"
 
 # navigation
 msgid "Translations"
-msgstr "Translations"
+msgstr "الترجمات"
 
 # index.html
 msgid  "Introduction"
-msgstr "Introduction"
+msgstr "مقدمة"
 
 msgid  "Active Servers"
-msgstr "Active Servers"
+msgstr "الخوادم النشطة"
 
 msgid  "Links"
-msgstr "Links"
+msgstr "روابط"
 
 msgid  "Terms of service"
-msgstr "Terms of service"
+msgstr "شروط الخدمة"
 
 msgid  "Subscribe in a reader"
 msgstr "Subscribe in a reader"
